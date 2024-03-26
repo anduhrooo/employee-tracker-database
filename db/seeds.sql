@@ -13,9 +13,9 @@ INSERT INTO role (title, salary, department)
 VALUES
 ('regional manager', 100000, 1), 
 ('receptionist', 30000, 2),       
-('sales representative', 50000, 4)
+('sales representative', 50000, 4),
 ('accountant', 50000, 3),         
-('customer service rep', 40000, 5)
+('customer service rep', 40000, 5),
 ('hr representative', 40000, 6);  
 
 INSERT INTO employee (first_name, last_name, role_id)
